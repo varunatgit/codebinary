@@ -1,5 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
+  font-weight:bold;
 }
 
 ul {
@@ -33,6 +34,8 @@ nav > p {
   border: 0.5px solid;
   border-radius: 5px;
   text-align: center;
+  padding-left:10px;
+  padding-right:10px;
 }
 
 .pill-black {
